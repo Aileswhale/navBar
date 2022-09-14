@@ -72,5 +72,5 @@ ul{
 }
 header{
     min-height: calc( 100vh - 60px );
-    background: url("/img/backgd.jpg") center/cover no-repeat;
+    background: url("/img/backgd.JPG") center/cover no-repeat;
 }
